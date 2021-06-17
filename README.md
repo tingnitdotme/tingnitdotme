@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @tingnitdotme
+### 👋 Hi, I’m @tingnit.me
 
 <!---
 tingnitdotme/tingnitdotme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
